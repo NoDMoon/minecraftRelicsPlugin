@@ -1,0 +1,6 @@
+name: Relics
+main: com.idmoon.relics.Relics
+version: 1
+commands:
+  relic:
+    description: relics management
